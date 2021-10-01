@@ -21,3 +21,4 @@ const Stats = (props) => {
         </table>
     );
 }
+export default Stats;
